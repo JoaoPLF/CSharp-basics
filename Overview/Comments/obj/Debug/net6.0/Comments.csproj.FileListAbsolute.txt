@@ -1,0 +1,16 @@
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.exe
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.deps.json
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.runtimeconfig.json
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.dll
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.pdb
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.xml
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.AssemblyInfo.cs
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.dll
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\refint\Comments.dll
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.pdb
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.genruntimeconfig.cache
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\ref\Comments.dll

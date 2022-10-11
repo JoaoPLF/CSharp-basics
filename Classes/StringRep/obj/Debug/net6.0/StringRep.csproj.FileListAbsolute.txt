@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net6.0\StringRep.exe
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net6.0\StringRep.deps.json
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net6.0\StringRep.runtimeconfig.json
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net6.0\StringRep.dll
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net6.0\StringRep.pdb
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\StringRep.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\StringRep.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\StringRep.AssemblyInfo.cs
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\StringRep.dll
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\refint\StringRep.dll
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\StringRep.pdb
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\StringRep.genruntimeconfig.cache
+C:\Users\John\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net6.0\ref\StringRep.dll
